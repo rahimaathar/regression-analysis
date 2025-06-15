@@ -48,9 +48,7 @@ regression-analysis-webapp/
     └── index.html
 ```
 
-## Example
 
-![App Screenshot](screenshot.png)
 
 ## Notes
 
